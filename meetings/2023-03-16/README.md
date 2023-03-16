@@ -1,6 +1,6 @@
 # gcc 符号版本管理
 
-**Speakers: Weiliang Qu**
+Speakers: Weiliang Qu
 
 > https://zhuanlan.zhihu.com/p/314912277
 

@@ -2,7 +2,7 @@
 
 Speakers: Weiliang Qu
 
-> https://zhuanlan.zhihu.com/p/314912277
+<https://zhuanlan.zhihu.com/p/314912277>
 
 为什么要有符号版本（symbol versioning），主要是为了兼容。当某个 so 更新后，其中的部分函数（符号）行为发生了变更时，很可能导致依赖该 so 的 binary 需要重新编译链接才能继续正常使用。通过 symbol versioning 技术，可以提供完整的向后兼容，binary 无需感知所依赖 so 的版本更新。
 
